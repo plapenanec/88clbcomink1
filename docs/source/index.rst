@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+88CLB - Nhà cái cá cược trực tuyến uy tín và đa dạng tại Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`88CLB <https://88clbcom.ink/>`_ là một nhà cái cá cược trực tuyến uy tín và phổ biến tại thị trường Việt Nam, được cấp phép hoạt động tại Costa Rica và bảo vệ bởi GEOTRUST. 88CLB mang đến cho người chơi không gian cá cược an toàn, minh bạch. 88CLB nổi bật với các sản phẩm chất lượng, hợp pháp hóa 100% và cập nhật thường xuyên phiên bản mới, phục vụ nhu cầu giải trí của người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+88CLB có hệ thống khuyến mãi hấp dẫn, như thưởng đăng ký, nạp tiền, và sự kiện đặc biệt, thu hút đông đảo người chơi tham gia. Dịch vụ chăm sóc khách hàng 24/7 đảm bảo hỗ trợ nhanh chóng và chuyên nghiệp, giúp người chơi tận hưởng trải nghiệm cá cược hoàn hảo.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 3B Đ. Phạm Thế Hiển, Phường 6, Quận 8, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0884544877. 
 
-.. toctree::
+Email: info@88clbcom.ink. 
 
-   usage
-   api
+Website: https://88clbcom.ink/ 
+
+#88clb #trangchu88clb #dangky88clb #dangnhap88clb #link88clb
